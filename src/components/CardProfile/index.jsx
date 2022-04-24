@@ -15,7 +15,7 @@ const CardProfile = () => {
         <img
           src={jeremyImg}
           alt='jeremy'
-          className='w-[60px] border-2 border-white rounded-full mr-5 lg:mb-7'
+          className='w-[60px] lg:w-[80px] border-2 border-white rounded-full mr-5 lg:mb-7'
         />
         <p className='text-left flex flex-col text-xs lg:text-base text-blue-pale'>
           Report for{' '}
