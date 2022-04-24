@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/PragmaticCreator/bookmarks)
-- Live Site URL: [Site](https://bookmarkspa.netlify.app/)
+- Solution URL: [Github](https://github.com/PragmaticCreator/time-tracker)
+- Live Site URL: [Site](https://timetrackerpa.netlify.app/)
 
 ## My process
 
@@ -43,8 +43,8 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
--[Zustand](https://github.com/pmndrs/zustand) - State management library
--[Framer Motion](https://www.framer.com/) - Animation Library
+- [Zustand](https://github.com/pmndrs/zustand) - State management library
+- [Framer Motion](https://www.framer.com/) - Animation Library
 - [Tailwind](https://tailwindcss.com/) - For styles
 - [Vite](https://vitejs.dev/) - Build tool
 
