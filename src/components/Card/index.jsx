@@ -29,7 +29,7 @@ const Card = ({ title = 'Work', timeframes }) => {
       <div className='relative overflow-hidden flex justify-center items-center w-full lg:h-[200px] h-[150px]'>
         {/* Icon and background color */}
         <div
-          className={`h-full w-full ${iconTypeBg[title]} rounded-2xl flex justify-end`}
+          className={`h-full w-full ${iconTypeBg[title]} rounded-2xl rounded-b-3xl flex justify-end`}
         >
           {title === 'Work' && <Work className='absolute -top-3 right-3' />}
           {title === 'Exercise' && (
